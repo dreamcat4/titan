@@ -23,7 +23,7 @@ require (
 	github.com/titan-data/s3-remote-go v0.1.1
 	github.com/titan-data/s3web-remote-go v0.1.0
 	github.com/titan-data/ssh-remote-go v0.1.0
-	github.com/titan-data/titan-client-go v0.0.3
+	github.com/titan-data/titan-client-go v0.1.1
 	golang.org/x/sys v0.0.0-20200917073148-efd3b9a0ff20 // indirect
 	gopkg.in/ini.v1 v1.61.0 // indirect
 	k8s.io/api v0.19.2
